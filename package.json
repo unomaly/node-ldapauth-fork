@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jnmly/node-ldapauth-fork.git"
+    "url": "git://github.com/unomaly/node-ldapauth-fork.git"
   },
   "engines": {
     "node": ">=0.8.0"
@@ -30,7 +30,7 @@
     "@types/ldapjs": "^1.0.0",
     "@types/node": "^10.12.12",
     "bcryptjs": "^2.4.0",
-    "ldapjs": "https://github.com/jnmly/node-ldapjs.git#a3b4f3144cab8dab6bb3da3bf087fa1208d7476a",
+    "ldapjs": "https://github.com/unomaly/node-ldapjs.git#a3b4f3144cab8dab6bb3da3bf087fa1208d7476a",
     "lru-cache": "^5.1.1"
   },
   "devDependencies": {
